@@ -14,7 +14,7 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: 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
-          USERNAME: yuyoyu32
+          USERNAME: yuyouyu32
       - name: Commit & Push
         run: |
           git config user.name github-actions
