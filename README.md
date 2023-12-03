@@ -20,6 +20,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yuyouyu32&theme=github-compact)](https://github.com/yuyouyu32)
 
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 
 Here are some ideas to get you started:
