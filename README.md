@@ -2,7 +2,7 @@
 # Hey, I am yuyouyu! ✨
 ### 🌱 About me
 
-<div style="display: flex; justify-content: center; align-items: center; width: 100%; height: 100%; font-size: 1.5em;">
+<div align="center">
   <a href="https://github.com/yuyouyu32">
     <img src="https://readme-typing-svg.demolab.com/?lines=loss.backward()🧠;optimizer.step()⚡&weight=900&center=true&size=32&color=0013F7&font=Times+New+Roman&height=60" alt="Typing SVG" />
   </a>
