@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/yuyouyu32">
-    <img src="https://readme-typing-svg.demolab.com/?lines=loss.backward()🧠;optimizer.step()⚡&weight=900&center=true&size=32&color=0013F7&font=Times+New+Roman&height=60" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=loss.backward()🧠;optimizer.step()💡&weight=900&center=true&size=32&color=0013F7&font=Times+New+Roman&height=60" alt="Typing SVG" />
   </a>
 </div>
 
