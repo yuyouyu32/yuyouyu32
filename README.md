@@ -1,12 +1,22 @@
 
 # Hey, I am yuyouyu! ✨
-### 🌱 About me
-
 <div align="center">
   <a href="https://github.com/yuyouyu32">
     <img src="https://readme-typing-svg.demolab.com/?lines=loss.backward()🧠;optimizer.step()⚡&weight=900&center=true&size=32&color=0013F7&font=Times+New+Roman&height=60" alt="Typing SVG" />
   </a>
 </div>
+
+<table>
+<tr><td>
+
+### 💬 About me
+  - 🎓 &nbsp; **Currently pursuing a Ph.D. (straight Ph.D.) degree in Computer Science at Shanghai University.**
+  - 🤔 &nbsp; **Learning AI technology, focusing on `Python` and `Rust`.**
+  - 🌱 &nbsp; **Learning cutting-edge big model related techniques, LLM, SD and multimodal models (trying to catch up with developments)**
+  - ✍️ &nbsp; **Enjoys gaming, including playing and making games, with a passion for incorporating cutting-edge AI technology into games.**
+  
+</td></tr>
+</table>
 
 ### 📊 Github metrics
 </div>
@@ -23,7 +33,7 @@
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -33,4 +43,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> -->
