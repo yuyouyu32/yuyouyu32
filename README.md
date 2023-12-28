@@ -12,8 +12,8 @@
 ### 💬 About me
   - 🎓 &nbsp; **Currently pursuing a Ph.D. (straight Ph.D.) degree in Computer Science at Shanghai University.**
   - 🤔 &nbsp; **Learning AI technology, focusing on `Python` and `Rust`.**
-  - 🌱 &nbsp; **Learning cutting-edge big model related techniques, LLM, SD and multimodal models (trying to catch up with developments)**
-  - ✍️ &nbsp; **Enjoys gaming, including playing and making games, with a passion for incorporating cutting-edge AI technology into games.**
+  - 🌱 &nbsp; **Learning cutting-edge large model related techniques, LLM, SD and multimodal models (trying to catch up with developments)**
+  - 🎮 &nbsp; **Enjoys gaming, including playing and making games, with a passion for incorporating cutting-edge AI technology into games.**
   
 </td></tr>
 </table>
