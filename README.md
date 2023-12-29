@@ -108,7 +108,7 @@
 
 <tr><td>
 
-### 👩🏻‍🏫 教育大模型研发 &emsp; 📌 2023-04 —— 2023-6
+### 👩🏻‍🏫 教育大模型研发 &emsp; 📌 2023-04 —— 2023-06
 
 <img align="right" width="100" src="./imgs/zhihuishu_logo.png" />
 - 
