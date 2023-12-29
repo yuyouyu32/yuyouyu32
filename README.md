@@ -19,6 +19,34 @@
   - 🎮 &nbsp; **Enjoys gaming, including playing and making games, with a passion for incorporating cutting-edge AI technology into games.**
   
 </td></tr>
+
+<tr><td>
+  
+### 🏢 Work Experience
+
+<img align="right" width="100" src="./imgs/lilith-logo_cn@3x.png" />
+
+- [莉莉丝游戏](https://www.lilith.com/cn) &emsp; 📌 2023-06 —— Now
+  
+  - **工作岗位**：算法实习生 研发中台;
+  - **工作内容**：负责研究和优化主流AIGC技术在游戏生产中的应用，包括绘画、文本和动画生成，并协助技术落地和内容生态的发展。(主要是文本)
+
+<img align="right" width="100" src="./imgs/zhihuishu-logo.png" />
+
+- [上海卓越睿新数码科技股份有限公司(智慧树)](https://www.zhihuishu.com/) &emsp; 📌 2023-04 —— 2023-06
+
+  - **工作岗位**：大模型算法实习生 算法部门;
+  - **工作内容**：利用高等教育领域的数据，搭建大模型的评价体系和fine-tuning数据集用于训练各学科的领域模型，搭建教育场景NLP大模型。
+
+<img align="right" width="100" src="./imgs/gravity-logo.webp" />
+
+- [格物钛（上海）智能科技有限公司](https://www.graviti.cn/about) &emsp; 📌 2021-05 —— 2021-09
+
+  - **工作岗位**：算法实习生 算法开发部门;
+  - **工作内容**：负责机器学习数据管理平台的Python SDK和CLI开发，包括设计、测试、文档编写，并优化自动化深度学习模型迭代流程，同时研究并应用前沿算法理论于业务场景。
+
+</td></tr>
+
 </table>
 
 ### 📊 Github metrics
