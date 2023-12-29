@@ -10,6 +10,9 @@
 <tr><td>
 
 ### 💬 About me
+
+<img align="right" width="100" src="./imgs/avatar.jpg" />
+
   - 🎓 &nbsp; **Currently pursuing a Ph.D. (straight Ph.D.) degree in Computer Science at Shanghai University.**
   - 🤔 &nbsp; **Learning AI technology, focusing on `Python` and `Rust`.**
   - 🌱 &nbsp; **Learning cutting-edge large model related techniques, LLM, SD and multimodal models (trying to catch up with developments)**
