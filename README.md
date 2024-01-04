@@ -114,9 +114,9 @@
 
 <img src="./imgs/AI Battle/Dislyte AI.png" width="30%" />
 
-https://github.com/yuyouyu32/yuyouyu32/assets/51949655/3088e745-8579-4674-b5ca-40234c2311c5
+[Dislyte](https://github.com/yuyouyu32/yuyouyu32/assets/51949655/3088e745-8579-4674-b5ca-40234c2311c5)
 
-https://github.com/yuyouyu32/yuyouyu32/assets/51949655/7228cf0a-eebc-479f-9a31-deca001aec1c
+[Farlight84](https://github.com/yuyouyu32/yuyouyu32/assets/51949655/aa200255-8331-4f9c-9c1d-aabe2f660bf4)
 
 </td></tr>
 
