@@ -1,3 +1,4 @@
+
 # Hey, I am yuyouyu! ✨
 <div align="center">
   <a href="https://github.com/yuyouyu32">
@@ -61,13 +62,13 @@
 - SLG模拟玩家实现，在AFK（剑与远征）游戏中模拟真实玩家，根据玩家历史数据构建玩家行为模型，**利用Lora微调LLM模仿玩家对话，给开源模型注入游戏知识**，以提高在新服和人数较少的服务器中的玩家互动体验。
 
 
-<img src="./imgs/AFKChatBot/1.jpg" width="7.5%" />
+<img src="./imgs/AFKChatBot/1.jpg" width="20%" />
 &emsp;
-<img src="./imgs/AFKChatBot/2.jpg" width="7.5%" />
+<img src="./imgs/AFKChatBot/2.jpg" width="20%" />
 &emsp;
-<img src="./imgs/AFKChatBot/3.jpg" width="7.5%" />
+<img src="./imgs/AFKChatBot/3.jpg" width="20%" />
 &emsp;
-<img src="./imgs/AFKChatBot/4.jpg" width="7.5%" />
+<img src="./imgs/AFKChatBot/4.jpg" width="20%" />
 
 </td></tr>
 
@@ -79,13 +80,13 @@
 
 - **控制世界**的LLM的模型会根据玩家，agent和当前世界状态进行故事的推演；**控制Agent**的LLM则会基于Agent自身状态，和玩家的关系，以及故事进行对话。
 
-<img src="./imgs/StoryGene/1.png" width="7.5%" />
+<img src="./imgs/StoryGene/1.png" width="20%" />
 &emsp;
-<img src="./imgs/StoryGene/2.png" width="7.5%" />
+<img src="./imgs/StoryGene/2.png" width="20%" />
 &emsp;
-<img src="./imgs/StoryGene/3.png" width="7.5%" />
+<img src="./imgs/StoryGene/3.png" width="20%" />
 &emsp;
-<img src="./imgs/StoryGene/4.png" width="7.5%" />
+<img src="./imgs/StoryGene/4.png" width="20%" />
 
 </td></tr>
 
@@ -97,9 +98,9 @@
 
 - 利用RAG，LLM，Vector DB等技术制作Dislyte陪聊机器人，实现根据游戏世界观，游戏角色设定来回答玩家问题，探索了**具有长期记忆，和一定情感分析能力**的陪伴型ChatBot框架。
 
-<img src="./imgs/DislyteRole/1.png" width="15%" />
+<img src="./imgs/DislyteRole/1.png" width="45%" />
 &emsp;
-<img src="./imgs/DislyteRole/2.png" width="16%" />
+<img src="./imgs/DislyteRole/2.png" width="45%" />
 
 </td></tr>
 
@@ -109,9 +110,9 @@
 
 <img align="right" width="100" src="./imgs/lilith-logo_cn@3x.png" />
 
-- 模仿学习实现AI对战Bot，应用于Dislyt和**Farlight 84（Google Play 2023年度最佳多人对战游戏）游戏中**，在Dislyte中**模仿学习AI对比规则AI拟人度提升7.5%左右**，在Farlight 84中模仿学习AI训练成功**3种风格AI**，并针对不同段位层级实现了AI的有效投放。
+- 模仿学习实现AI对战Bot，应用于Dislyt和**Farlight 84（Google Play 2023年度最佳多人对战游戏）游戏中**，在Dislyte中**模仿学习AI对比规则AI拟人度提升20%左右**，在Farlight 84中模仿学习AI训练成功**3种风格AI**，并针对不同段位层级实现了AI的有效投放。
 
-<img src="./imgs/AI Battle/Dislyte AI.png">
+<img src="./imgs/AI Battle/Dislyte AI.png" width="30%" />
 
 https://github.com/yuyouyu32/yuyouyu32/assets/51949655/3088e745-8579-4674-b5ca-40234c2311c5
 
@@ -128,9 +129,9 @@ https://github.com/yuyouyu32/yuyouyu32/assets/51949655/7228cf0a-eebc-479f-9a31-d
 
 - 根据Samo项目立绘风格训练SD模型生成魔宠图片，玩家**上传宠物照片来生成Samo游戏中风格的魔宠**，总PV次数为**117K**次，总UV人数为**50K**，且出现明显自传播效应，分享点击率高达**55%**，后台追踪用户总生图次数为**41.8K**次。
 
-<img src="./imgs/Samo/1.png" width="4.5%" />
+<img src="./imgs/Samo/1.png" width="13%" />
 &emsp;
-<img src="./imgs/Samo/2.png" width="26%" />
+<img src="./imgs/Samo/2.png" width="84%" />
 
 
 </td></tr>
@@ -142,14 +143,14 @@ https://github.com/yuyouyu32/yuyouyu32/assets/51949655/7228cf0a-eebc-479f-9a31-d
 ### 👩🏻‍🏫 教育大模型研发 &emsp; 📌 2023-04 —— 2023-06
 
 <img align="right" width="100" src="./imgs/zhihuishu_logo.png" />
-
+- 
 - 智慧树**网页“大明白”AI助手和“知到-教师版”APP的算法模型开发**，涉及到成本控制。调研主流大模型如LLaMA、chatGLM、MOSS的性能，包括错别字识别等任务，并使用内部教育数据集对不同学科模型进行Fine-tuning。
 
-<img src="./imgs/Zhihuishu/1.jpg" width="20%" />
+<img src="./imgs/Zhihuishu/1.jpg" width="60%" />
 &emsp;
-<img src="./imgs/Zhihuishu/2.jpg" width="5%" />
+<img src="./imgs/Zhihuishu/2.jpg" width="16%" />
 &emsp;
-<img src="./imgs/Zhihuishu/3.jpg" width="5%" />
+<img src="./imgs/Zhihuishu/3.jpg" width="16%" />
 
 </td></tr>
 
