@@ -24,6 +24,14 @@
   
 ### 🏢 Work Experience
 
+
+<img align="right" width="100" src="./imgs/Tencent_Logo.svg.png" />
+
+- [腾讯光子工作室](https://www.tencent.com) &emsp; 📌 2023-06 —— 2024-02
+  
+  - **工作岗位**：算法实习生 光子技术研发部
+  - **工作内容**：学习和研究**LLMs的训练和部署**，并应用于**游戏角色扮演**，撰写相关论文与技术报告；支持游戏相关舆情分析与周报生成。
+
 <img align="right" width="100" src="./imgs/lilith-logo_cn@3x.png" />
 
 - [莉莉丝游戏](https://www.lilith.com/cn) &emsp; 📌 2023-06 —— 2024-02
