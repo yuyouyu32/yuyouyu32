@@ -27,7 +27,7 @@
 
 <img align="right" width="100" src="./imgs/Tencent_Logo.svg.png" />
 
-- [腾讯光子工作室](https://www.tencent.com) &emsp; 📌 2024-03 —— now
+- [腾讯](https://www.tencent.com) &emsp; 📌 2024-03 —— now
   
   - **工作岗位**：算法实习生 光子技术研发部
   - **工作内容**：学习和研究**LLMs的训练和部署**，并应用于**游戏角色扮演**，撰写相关论文与技术报告；支持游戏相关舆情分析与周报生成。
