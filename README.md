@@ -14,8 +14,8 @@
 <img align="right" width="100" src="./imgs/avatar.jpg" />
 
   - 🎓 &nbsp; **Currently pursuing a Ph.D. (straight Ph.D.) degree in Computer Science at Shanghai University.**
-  - 🤔 &nbsp; **Learning AI technology,git focusing on `Python` and `Rust`.**
-  - 🌱 &nbsp; **Learning cutting-edge large model related techniques, LLM, SD and multimodal models (trying to catch up with developments)**
+  - 🤔 &nbsp; **Learning AI technology, git focusing on `Python` and `Rust`.**
+  - 🌱 &nbsp; **Learning cutting-edge large model-related techniques, LLM, SD, and multimodal models (trying to catch up with developments)**
   - 🎮 &nbsp; **Enjoys gaming, including playing and making games, with a passion for incorporating cutting-edge AI technology into games.**
   
 </td></tr>
@@ -26,10 +26,10 @@
 
 <img align="right" width="100" src="./imgs/lilith-logo_cn@3x.png" />
 
-- [莉莉丝游戏](https://www.lilith.com/cn) &emsp; 📌 2023-06 —— Now
+- [莉莉丝游戏](https://www.lilith.com/cn) &emsp; 📌 2023-06 —— 2024-02
   
   - **工作岗位**：算法实习生 研发中台
-  - **工作内容**：负责研究和优化主流**AIGC技术在游戏生产中的应用**，包括绘画、文本和动画生成，并协助技术落地和内容生态的发展。(主要是文本)
+  - **工作内容**：负责研究和优化主流**AIGC技术在游戏生产中的应用**，包括绘画、文本和动画生成，并协助技术落地和内容生态的发展。(主要是NLP LLM方向)
 
 <img align="right" width="100" src="./imgs/zhihuishu_logo.png" />
 
