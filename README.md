@@ -129,21 +129,19 @@
 | 队友选择      |  30.0%   |       63.2%        |
 
 </div>
+<!-- [Dislyte](https://github.com/yuyouyu32/yuyouyu32/assets/51949655/3088e745-8579-4674-b5ca-40234c2311c5) -->
 
+<!-- [Farlight84](https://github.com/yuyouyu32/yuyouyu32/assets/51949655/aa200255-8331-4f9c-9c1d-aabe2f660bf4) -->
 
 <div style="display: flex; justify-content: space-around;">
 
-  <div style="flex: 0 0 40%;">
-    <a href="https://github.com/yuyouyu32/yuyouyu32/assets/51949655/3088e745-8579-4674-b5ca-40234c2311c5" target="_blank">
-      <img src="https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg" alt="Dislyte" style="width:100%;">
-    </a>
+  <div style="flex: 0 0 40%; text-align: center;">
+    <a href="https://github.com/yuyouyu32/yuyouyu32/assets/51949655/3088e745-8579-4674-b5ca-40234c2311c5" target="_blank">Dislyte</a>
     <p align="center">Dislyte</p>
   </div>
 
-  <div style="flex: 0 0 40%;">
-    <a href="https://github.com/yuyouyu32/yuyouyu32/assets/51949655/aa200255-8331-4f9c-9c1d-aabe2f660bf4" target="_blank">
-      <img src="https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg" alt="Farlight84" style="width:100%;">
-    </a>
+  <div style="flex: 0 0 40%; text-align: center;">
+    <a href="https://github.com/yuyouyu32/yuyouyu32/assets/51949655/aa200255-8331-4f9c-9c1d-aabe2f660bf4" target="_blank">Farlight84</a>
     <p align="center">Farlight 84</p>
   </div>
 
