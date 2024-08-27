@@ -14,7 +14,7 @@
 <img align="right" width="100" src="./imgs/avatar.jpg" />
 
   - 🎓 &nbsp; **Currently pursuing a Ph.D. (straight Ph.D.) degree in Computer Science at Shanghai University.**
-  - 🤔 &nbsp; **Learning AI technology, git focusing on `Python` and `Rust`.**
+  - 🤔 &nbsp; **Learning AI technology, git focusing on `Python` and `Cpp`.**
   - 🌱 &nbsp; **Learning cutting-edge large model-related techniques, LLM, SD, and multimodal models (trying to catch up with developments)**
   - 🎮 &nbsp; **Enjoys gaming, including playing and making games, with a passion for incorporating cutting-edge AI technology into games.**
   
@@ -30,7 +30,7 @@
 - [腾讯光子工作室](https://www.tencent.com) &emsp; 📌 2024-03 —— now
   
   - **工作岗位**：算法实习生 光子技术研发部
-  - **工作内容**：学习和研究**LLMs的训练和部署**，并应用于**游戏角色扮演**，撰写相关论文与技术报告；支持游戏相关舆情分析与周报生成。
+  - **工作内容**：撰写角色扮演LLMs技术论文；支持游戏相关舆情平台构建；不同游戏项目AI接入（如AI陪伴、AI教练、AI队友等）。
 
 <img align="right" width="100" src="./imgs/lilith-logo_cn@3x.png" />
 
@@ -63,7 +63,7 @@
 
 <tr><td>
 
-### 🔥 AFK(剑与远征) 虚拟玩家 &emsp; 📌 2023-11 —— now
+### 🔥 AFK(剑与远征) 虚拟玩家 &emsp; 📌 2023-11 —— 2024.02
 
 <img align="right" width="100" src="./imgs/lilith-logo_cn@3x.png" />
 
@@ -120,11 +120,34 @@
 
 - 模仿学习实现AI对战Bot，应用于Dislyt和**Farlight 84（Google Play 2023年度最佳多人对战游戏）游戏中**，在Dislyte中**模仿学习AI对比规则AI拟人度提升20%左右**，在Farlight 84中模仿学习AI训练成功**3种风格AI**，并针对不同段位层级实现了AI的有效投放。
 
-<img src="./imgs/AI Battle/Dislyte AI.png" width="30%" />
+<div align="center">
 
-[Dislyte](https://github.com/yuyouyu32/yuyouyu32/assets/51949655/3088e745-8579-4674-b5ca-40234c2311c5)
+|      Dislyt      | 规则AI   | 机器学习AI (BUFF版) |
+|--------------|:--------:|:------------------:|
+| 技能选择      |  70.9%   |       90.9%        |
+| 敌人选择      |  62.0%   |       75.4%        |
+| 队友选择      |  30.0%   |       63.2%        |
 
-[Farlight84](https://github.com/yuyouyu32/yuyouyu32/assets/51949655/aa200255-8331-4f9c-9c1d-aabe2f660bf4)
+</div>
+
+
+<div style="display: flex; justify-content: space-around;">
+
+  <div style="flex: 0 0 40%;">
+    <a href="https://github.com/yuyouyu32/yuyouyu32/assets/51949655/3088e745-8579-4674-b5ca-40234c2311c5" target="_blank">
+      <img src="https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg" alt="Dislyte" style="width:100%;">
+    </a>
+    <p align="center">Dislyte</p>
+  </div>
+
+  <div style="flex: 0 0 40%;">
+    <a href="https://github.com/yuyouyu32/yuyouyu32/assets/51949655/aa200255-8331-4f9c-9c1d-aabe2f660bf4" target="_blank">
+      <img src="https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg" alt="Farlight84" style="width:100%;">
+    </a>
+    <p align="center">Farlight 84</p>
+  </div>
+
+</div>
 
 </td></tr>
 
