@@ -16,7 +16,7 @@
   - 🎓 &nbsp; **Currently pursuing a Ph.D. (straight Ph.D.) degree in Computer Science at Shanghai University.**
   - 🤔 &nbsp; **Learning AI technology, git focusing on `Python` and `Cpp`.**
   - 🌱 &nbsp; **Learning cutting-edge large model-related techniques, LLM, SD, and multimodal models (trying to catch up with developments)**
-  - 🎮 &nbsp; **Enjoys gaming, including playing and making games, with a passion for incorporating cutting-edge AI technology into games.**
+  - 🎮 &nbsp; **Enjoys gaming, including playing and developing games, with a passion for incorporating cutting-edge AI technology into games.**
   
 </td></tr>
 
@@ -27,7 +27,7 @@
 
 <img align="right" width="100" src="./imgs/Tencent_Logo.svg.png" />
 
-- [腾讯光子工作室](https://www.tencent.com) &emsp; 📌 2024-03 —— now
+- [腾讯](https://www.tencent.com) &emsp; 📌 2024-03 —— now
   
   - **工作岗位**：算法实习生 光子技术研发部
   - **工作内容**：撰写角色扮演LLMs技术论文；支持游戏相关舆情平台构建；不同游戏项目AI接入（如AI陪伴、AI教练、AI队友等）。
