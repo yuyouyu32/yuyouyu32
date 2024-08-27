@@ -30,7 +30,7 @@
 - [腾讯](https://www.tencent.com) &emsp; 📌 2024-03 —— now
   
   - **工作岗位**：算法实习生 光子技术研发部
-  - **工作内容**：撰写角色扮演LLMs技术论文；支持游戏相关舆情平台构建；不同游戏项目AI接入（如AI陪伴、AI教练、AI队友等）。
+  - **工作内容**：撰写**角色扮演LLMs论文**；支持游戏相关舆情平台构建；不同游戏项目AI接入（如AI陪伴、AI教练、AI队友等）。
 
 <img align="right" width="100" src="./imgs/lilith-logo_cn@3x.png" />
 
@@ -60,6 +60,16 @@
 ## 📅 Recent Projects
 
 <table>
+
+<tr><td>
+
+### 🔥 回家的猫（微信小游戏）算法支撑 &emsp; 📌 2023-11 —— 2024.02
+
+<img align="right" width="100" src="./imgs/lilith-logo_cn@3x.png" />
+
+</td></tr>
+
+<tr><td>
 
 <tr><td>
 
@@ -129,23 +139,12 @@
 | 队友选择      |  30.0%   |       63.2%        |
 
 </div>
-<!-- [Dislyte](https://github.com/yuyouyu32/yuyouyu32/assets/51949655/3088e745-8579-4674-b5ca-40234c2311c5) -->
 
-<!-- [Farlight84](https://github.com/yuyouyu32/yuyouyu32/assets/51949655/aa200255-8331-4f9c-9c1d-aabe2f660bf4) -->
+- **Dislyte AI对战视频：**
+[Dislyte](https://github.com/yuyouyu32/yuyouyu32/assets/51949655/3088e745-8579-4674-b5ca-40234c2311c5)
 
-<div style="display: flex; justify-content: space-around;">
-
-  <div style="flex: 0 0 40%; text-align: center;">
-    <a href="https://github.com/yuyouyu32/yuyouyu32/assets/51949655/3088e745-8579-4674-b5ca-40234c2311c5" target="_blank">Dislyte</a>
-    <p align="center">Dislyte</p>
-  </div>
-
-  <div style="flex: 0 0 40%; text-align: center;">
-    <a href="https://github.com/yuyouyu32/yuyouyu32/assets/51949655/aa200255-8331-4f9c-9c1d-aabe2f660bf4" target="_blank">Farlight84</a>
-    <p align="center">Farlight 84</p>
-  </div>
-
-</div>
+- **Farlight 84 AI对战视频：**
+[Farlight84](https://github.com/yuyouyu32/yuyouyu32/assets/51949655/aa200255-8331-4f9c-9c1d-aabe2f660bf4)
 
 </td></tr>
 
@@ -172,8 +171,8 @@
 ### 👩🏻‍🏫 教育大模型研发 &emsp; 📌 2023-04 —— 2023-06
 
 <img align="right" width="100" src="./imgs/zhihuishu_logo.png" />
-- 
-- 智慧树**网页“大明白”AI助手和“知到-教师版”APP的算法模型开发**，涉及到成本控制。调研主流大模型如LLaMA、chatGLM、MOSS的性能，包括错别字识别等任务，并使用内部教育数据集对不同学科模型进行Fine-tuning。
+
+- 智慧树网页"**大明白**"**AI助手和**"**知到-教师版**"**APP的算法模型开发**，涉及到成本控制。调研主流大模型如LLaMA、chatGLM、MOSS的性能，包括错别字识别等任务，并使用内部教育数据集对不同学科模型进行Fine-tuning。
 
 <img src="./imgs/Zhihuishu/1.jpg" width="60%" />
 &emsp;
