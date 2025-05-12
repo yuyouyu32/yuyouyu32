@@ -78,7 +78,7 @@
 
 <tr><td>
 
-### 📄 From Small Data Modeling to Large Language Model Screening: A Dual-Strategy for Materials Intelligent Design（Nature Machine Intelligence in Major Revision）
+### 📄 From Small Data Modeling to Large Language Model Screening: A Dual-Strategy for Materials Intelligent Design（Advanced Science, JCR Q1, IF 14.3）
 
 <div style="display: flex; justify-content: space-between;">
   <div><strong>第一作者</strong></div>
@@ -87,6 +87,7 @@
 
 - 目标域数据量少，ML建模精度低，提出了一个**耦合的特征表示和对抗生成域自适应网络，引入了协方差距离和残差连接**，以缩小源域和目标域之间的表征差异。
 - 利用迁移之后的表征向量在目标域和源域上ML精度大幅提升，基于高精度模型设计新的候选方案，并**利用LLMs的自检索、自总结能力对候选方案进行筛选评估**。
+- **Paper: https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202403548?af=R**
 - **Code: https://github.com/yuyouyu32/DSMID**
   
 </tr></td>
