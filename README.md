@@ -61,7 +61,7 @@
 <table>
 <tr><td>
 
-### 📄 Beyond Dialogue: A Profile-Dialogue Alignment Framework Towards General Role-Playing Language Mode (Submitted to AAAI25)
+### 📄 Beyond Dialogue: A Profile-Dialogue Alignment Framework Towards General Role-Playing Language Mode (ACL 2025 Main)
 
 <div style="display: flex; justify-content: space-between;">
   <div><strong>第一作者</strong></div>
