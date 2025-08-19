@@ -30,7 +30,7 @@
 - [腾讯](https://www.tencent.com) &emsp; 📌 2024-03 —— now
   
   - **工作岗位**：算法实习生 光子技术研发部
-  - **工作内容**：撰写**角色扮演LLMs论文**；支持游戏相关舆情平台构建；不同游戏项目AI接入（如AI陪伴、AI教练、AI队友等）。
+  - **工作内容**：负责LLMs的**应用研究**、算法设计与优化，并撰写相关论文，参与数据预处理、模型训练与评估，与团队协作推动多个游戏 项目中LLMs技术的应用与落地。
 
 <img align="right" width="100" src="./imgs/lilith-logo_cn@3x.png" />
 
@@ -59,6 +59,25 @@
 
 ## 📑 Papers
 <table>
+
+<tr><td>
+
+### 📄 AIMatDesign: Knowledge-Augmented Reinforcement Learning for Inverse Materials Design under Data Scarcity (NMI Major Revision)
+
+<div style="display: flex; justify-content: space-between;">
+  <div><strong>第一作者</strong></div>
+  <div><strong>上海大学</strong></div>
+</div>
+
+- 目前的逆向设计方法在**高维搜索空间和有限数据**下容易出现**预测偏差和可靠性不足**的问题，同时**缺乏知识引导**，限制了模型的泛化能力。
+- 本研究提出了一个**低成本可信经验池的构建方法**，利用**差分**增强策略提升样本质量，加速强化学习收敛，并通过**LLMs驱动的自动修正机制**动态矫正预测不一致性，**实现奖励信号与状态函数的对齐**。
+- 同时设计了**知识增强的奖励函数**，有效融入专家规则，提升训练的稳定性与效率。
+- 实验表明，该框架在**发现效率、收敛速度和成功率**上显著超越传统方法，并能准确捕捉目标趋势，展示了其在**自动化闭环设计系统中**的潜力。
+- **Paper: https://arxiv.org/abs/2507.00024**
+- **Code: https://github.com/yuyouyu32/AIMatDesign**
+  
+</tr></td>
+
 <tr><td>
 
 ### 📄 Beyond Dialogue: A Profile-Dialogue Alignment Framework Towards General Role-Playing Language Mode (ACL 2025 Main)
@@ -71,7 +90,7 @@
 - 目前的RP训练流程中使用**全局视角下定义的角色profile来指导dialogue的生成**，然而目前收集的对话基本上不可能在一个情景下体现全部的profile内容，就会出现**profile和dialogue不对齐**的问题，导致训练时出现Bias **（Prompt中要求体现的角色特性在Lable对话中没有体现，甚至有冲突）**。
 - 该研究首先提出了一套全自动低成本的RP数据集构建pipeline，同时设计一个**简单有效的框架对齐profile和dialogue**，并通过Beyond Dialogue的衍生任务在**sentence level**上学习并提高角色扮演的细粒度对齐能力。
 - 为了自动有效的评估LLMs的RP能力，我们构建了一个自动生成对话角色、场景和对话内容的pipeline，**评估模型在相同设定下对profile的遵循程度**，并将评估任务都转换成 **客观题（判断、选择题）** 来降低评估LLMs的能力要求与提高评估有效性。
-- **Paper: https://web3.arxiv.org/abs/2408.10903**
+- **Paper: https://aclanthology.org/2025.acl-long.586/**
 - **Code: https://github.com/yuyouyu32/BeyondDialogue**
   
 </tr></td>
@@ -120,9 +139,23 @@
 
 <img align="right" width="100" src="./imgs/Tencent_Logo.svg.png" />
 
-- 英雄联盟手游AI Pet以及AI Coach项目开发，**AI Pet用于闲聊与解答游戏相关问题，AI Coach用于在对局中对玩家进行教学，如死亡分析，对战策略，大局观指导等**，目前AI宠物已经上线，AI Coach处于内测。
+- 英雄联盟手游AI Pet以及AI Coach项目开发，**AI Pet用于闲聊与解答游戏相关问题，AI Coach用于在对局中对玩家进行教学，如死亡分析，对战策略，大局观指导等**，目前AI宠物已经上线，AI Coach处于内测中，预计8月22日上线。
+- AI解说：通过处理传输的 XML数据，进行多帧聚合后，**训练LLMs进行战场复原**，并基于此生成流式解说词，为用户提供实时、精准的游戏解说体验。
+- 行为树生成：基于**LLM的教学行为树生成**，实现从自然语言描述到复杂行为树结构的智能化转换。
 
 </td></tr>
+
+<tr><td>
+
+### 🔫 和平精英 AI队友算法支持 &emsp; 📌 2024-12 —— 2025.05
+
+<img align="right" width="100" src="./imgs/Tencent_Logo.svg.png" />
+
+- 在AI队友项目中，微调小参数量LLM实现语义识别，**区分玩家的指令与闲聊**，准确率达到**95%**，并通过角色卡片生成闲聊对话训练LLMs的闲聊能力，提升AI队友的**互动能力与响应准确性**。
+
+
+</td></tr>
+
 
 <tr><td>
 
